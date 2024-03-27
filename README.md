@@ -16,13 +16,9 @@ I'm currently pursuing a Master of Science in Information Systems at Northeaster
 
 I'm currently diving deeper into advanced concepts in data engineering and analytics, and keeping up with the latest trends in the Data & AI space.
 
-## 👯 Let's Collaborate!
-
-I'm always on the lookout for exciting projects that leverage data-driven solutions to tackle real-world challenges. Let's innovate together!
-
 ## 📫 Reach Out!
 
-Feel free to connect with me or discuss potential collaborations. You can reach me at prasath.n@northeastern.edu or on [LinkedIn](https://www.linkedin.com/in/p-nishanth).
+I'm always on the lookout for exciting projects that leverage data-driven solutions to tackle real-world challenges. Feel free to connect with me or discuss potential collaborations. You can reach me at prasath.n@northeastern.edu or on [LinkedIn](https://www.linkedin.com/in/p-nishanth). Let's innovate together!
 
 <!--
 ### Hi there 👋
@@ -39,6 +35,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 👯 Let's Collaborate!
+
+I'm always on the lookout for exciting projects that leverage data-driven solutions to tackle real-world challenges. Let's innovate together!
 
 ## 📄 Check Out My Resume
 
