@@ -14,7 +14,7 @@ I'm currently pursuing a Master of Science in Information Systems at Northeaster
 
 ## 🌱 What I'm Learning 
 
-I'm currently diving deeper into advanced concepts in data engineering and analytics, and keeping up with the latest trends in the Data & AI space.
+I'm currently diving deeper into advanced concepts in data engineering and machine learning, and keeping up with the latest trends in the Data & AI space.
 
 ## 📫 Reach Out!
 
