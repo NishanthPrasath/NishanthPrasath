@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hi there, I'm Nishanth Prasath! 👋
 
 I'm a Software Engineer with a passion for data engineering and analytics. With over 3.5 years of experience, I've honed my skills in designing, developing, and maintaining end-to-end data pipelines and architectures. I believe that data is more than just numbers – it's a transformative force that can unlock a world of possibilities and make a significant impact.
@@ -27,6 +25,8 @@ I'm always on the lookout for exciting projects that leverage data-driven soluti
 Feel free to connect with me or discuss potential collaborations. You can reach me at prasath.n@northeastern.edu or on [LinkedIn](https://www.linkedin.com/in/p-nishanth).
 
 <!--
+### Hi there 👋
+
 **NishanthPrasath/NishanthPrasath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
