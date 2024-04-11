@@ -8,7 +8,7 @@ I believe that data is more than just numbers – it's a transformative force th
 
 Currently, I'm pursuing a Master of Science in Information Systems at Northeastern University to further expand my knowledge and stay at the forefront of the ever-evolving data landscape. I'm also diving deeper into advanced concepts in data engineering and machine learning, and keeping up with the latest trends in the Data & AI space.
 
-🛠️ **Tech Stack**
+### 🛠️ **Tech Stack**
 
 ```json
 {
@@ -20,11 +20,11 @@ Currently, I'm pursuing a Master of Science in Information Systems at Northeaste
 }
 ```
 
-🎉 **Fun Fact**
+### 🎉 **Fun Fact**
 
 When I'm not deep-diving into data, you can find me brewing the perfect cup of coffee, capturing stunning landscapes through my lens, or planning my next travel adventure.
 
-🔗 **Let's Connect!**
+## 🔗 **Let's Connect!**
 
 Feel free to explore my projects, check out my LinkedIn profile, or reach out to me if you have any questions or would like to collaborate on data-driven projects.
 
