@@ -19,7 +19,7 @@ Currently, I'm pursuing a Master of Science in Information Systems at Northeaste
     "DevOps & Other Tools": ["Docker", "Kubernetes", "Jenkins", "Git", "Jira", "ER/Studio", "LlamaIndex", "LangChain", "Terraform"]
 }
 ```
-
+🎉 **Fun Fact**
 ### 🎉 **Fun Fact**
 
 When I'm not deep-diving into data, you can find me brewing the perfect cup of coffee, capturing stunning landscapes through my lens, or planning my next travel adventure.
