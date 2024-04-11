@@ -1,10 +1,10 @@
 ### 👋 **Hello there!**
 
-I'm a Data Engineer with a passion for harnessing the power of data to drive meaningful insights and impactful solutions. With over 3.5 years of experience, I specialize in designing, developing, and maintaining end-to-end data pipelines and architectures to ensure the seamless flow of data, enabling businesses to make data-driven decisions effectively and efficiently.
+I'm a Data Engineer with a passion for harnessing the power of data to drive meaningful insights and impactful solutions. With over 3.5 years of experience, I specialize in designing, developing, and maintaining end-to-end data pipelines and architectures, empowering businesses to make effective, data-driven decisions.
 
-I believe that data is more than just numbers – it's a transformative force that can unlock a world of possibilities and make a significant difference. I'm constantly seeking opportunities to work with data-driven projects that address real-world challenges and make a positive impact.
+I see data as more than just numbers – it's a powerful force that can unlock a world of possibilities and make a significant difference. I'm continually on the lookout for opportunities to contribute to data-centric projects that tackle real-world challenges and create a positive impact.
 
-Currently, I'm pursuing a Master of Science in Information Systems at Northeastern University to further expand my knowledge and stay at the forefront of the ever-evolving data landscape. I'm also diving deeper into advanced concepts in data engineering and machine learning, and keeping up with the latest trends in the Data & AI space.
+Currently, I'm pursuing a Master of Science in Information Systems at Northeastern University to further expand my knowledge and stay at the forefront of the ever-evolving data landscape. I'm also delving deeper into advanced concepts in data engineering and machine learning, keeping pace with the latest trends in the Data & AI space.
 
 ### 🛠️ **Tech Stack**
 
