@@ -1,8 +1,6 @@
 ⚙️ **About Me**
 
-# Hello there! 👋
-
-I'm a Data Engineer with a passion for harnessing the power of data to drive meaningful insights and impactful solutions. With over 3.5 years of experience, I specialize in designing, developing, and maintaining end-to-end data pipelines and architectures, enabling organizations to transform data into valuable knowledge.
+Hello there! 👋 I'm a Data Engineer with a passion for harnessing the power of data to drive meaningful insights and impactful solutions. With over 3.5 years of experience, I specialize in designing, developing, and maintaining end-to-end data pipelines and architectures, enabling organizations to transform data into valuable knowledge.
 
 I believe that data is more than just numbers – it's a transformative force that can unlock a world of possibilities and make a significant difference. I'm constantly seeking opportunities to work with data-driven projects that address real-world challenges and make a positive impact.
 
@@ -19,19 +17,15 @@ Currently, I'm pursuing a Master of Science in Information Systems at Northeaste
     "DevOps & Other Tools": ["Docker", "Kubernetes", "Jenkins", "Git", "Jira", "ER/Studio", "LlamaIndex", "LangChain", "Terraform"]
 }
 ```
-🎉 **Fun Fact**
 ### 🎉 **Fun Fact**
 
 When I'm not deep-diving into data, you can find me brewing the perfect cup of coffee, capturing stunning landscapes through my lens, or planning my next travel adventure.
 
-## 🔗 **Let's Connect!**
+### 🔗 **Let's Connect!**
 
-Feel free to explore my projects, check out my LinkedIn profile, or reach out to me if you have any questions or would like to collaborate on data-driven projects.
+Feel free to explore my projects, check out my [LinkedIn](https://www.linkedin.com/in/p-nishanth) profile, or reach out to me if you have any questions or would like to collaborate on data-driven projects.
 
-I am eager to connect with other data enthusiasts, learn from the community, and contribute to impactful data engineering and analytics projects. Together, we can harness the transformative power of data and drive meaningful change!
-
-Happy Coding! 🚀
-Stay curious, keep learning, and let's make data our superpower! 🚀
+I am eager to connect with other data enthusiasts, learn from the community, and contribute to impactful data engineering and analytics projects. Together, we can harness the transformative power of data and drive meaningful change! 🚀
 
 <!--
 # Hi there, I'm Nishanth Prasath! 👋
