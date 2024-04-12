@@ -4,7 +4,7 @@ I'm a Data Engineer with a passion for harnessing the power of data to drive mea
 
 I see data as more than just numbers – it's a powerful force that can unlock a world of possibilities and make a significant difference. I'm continually on the lookout for opportunities to contribute to data-centric projects that tackle real-world challenges and create a positive impact.
 
-Currently, I'm pursuing a Master of Science in Information Systems at Northeastern University to further expand my knowledge and stay at the forefront of the ever-evolving data landscape. I'm also delving deeper into advanced concepts in data engineering and machine learning, keeping pace with the latest trends in the Data & AI space.
+Currently pursuing a Master of Science in Information Systems at Northeastern University to further expand my knowledge and stay at the forefront of the ever-evolving data landscape. I'm also delving deeper into advanced concepts in data engineering and machine learning, keeping pace with the latest trends in the Data & AI space.
 
 ### 🛠️ **Tech Stack**
 
