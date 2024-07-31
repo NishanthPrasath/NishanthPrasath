@@ -23,9 +23,9 @@ I'm a Data Engineer with 3.5+ years of experience in designing, developing, and 
 ### 🚀 **Key Projects**
 
 - **SafeFeed:** Real-time content moderation pipeline using Mage, Snowflake, DBT, and diffusion models
-- **Movie Box Office Analytics:** Snowflake dimensional modeling with SCD Type 2, ETL using Talend and Alteryx
+- **TravelBud:** AI-powered travel planner with RapidAPI integration, Airflow and GPT-3.5 for personalized itineraries
 - **VaniVerse:** Conversational AI for meeting insights using Whisper and GPT-3.5 API
-- **Geospatial Data Exploration Tool:** AWS-based solution for 100+ TB NOAA datasets with FastAPI and Streamlit
+- **Geospatial Data Exploration:** AWS-based solution for 100+ TB NOAA datasets with FastAPI, Docker and Streamlit
 
 ### 📈 **What I'm Up To**
 
