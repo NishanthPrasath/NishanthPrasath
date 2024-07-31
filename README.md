@@ -38,7 +38,7 @@ I'm a Data Engineer with 3.5+ years of experience in designing, developing, and 
 - [LinkedIn](https://www.linkedin.com/in/p-nishanth)
 - [Email](mailto:nishanth.prasath@outlook.com)
 
-Always open to collaborating on innovative data projects or discussing the latest in data engineering. Let's harness the power of data to drive meaningful change! 🚀
+Always open to collaborating on innovative data projects or discussing the latest in data engineering. Let's harness the power of data to drive meaningful change!
 
 <!--
 ### 👋 **Hello there!**
