@@ -24,7 +24,7 @@ I'm a Data Engineer with 3.5+ years of experience in designing, developing, and 
 - [**SafeFeed**](https://github.com/NishanthPrasath/SafeFeed-Context-Aware-Content-Moderation): Real-time content moderation pipeline using Mage, Snowflake, DBT, diffusion models and OpenAI Assistants
 - [**TravelBud**](https://github.com/NishanthPrasath/TravelBud-Personalized-Travel-Itinerary-Planner): AI-powered travel planner with RapidAPI integration, Airflow and GPT-3.5 for personalized itineraries
 - [**VaniVerse**](https://github.com/NishanthPrasath/VaniVerse-Conversational-AI-for-Meeting-Insights): Conversational AI for meeting insights using Whisper, GPT-3.5 API, Airflow, and CI/CD with GitHub Actions
-- [**Geospatial Data Exploration**](https://github.com/NishanthPrasath/Geospatial-Data-Explorer): AWS-based data retrieval tool for 100+ TB NOAA datasets with FastAPI, Docker and Streamlit
+- [**Geospatial Data Explorer**](https://github.com/NishanthPrasath/Geospatial-Data-Explorer): AWS-based data retrieval tool for 100+ TB NOAA datasets with FastAPI, Docker and Streamlit
 
 ### 📈 **What I'm Up To**
 
