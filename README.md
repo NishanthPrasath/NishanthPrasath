@@ -2,7 +2,7 @@
 
 I'm an AI Engineer specializing in building enterprise-scale generative AI systems and data architectures. I'm passionate about advancing intelligent process automation through multi-agent systems and RAG architectures, while leveraging my strong foundation in data engineering.
 
-### 🚀 **What I Do**
+### 🎯 **What I Do**
 
 - Design and implement enterprise-scale multi-agent AI systems
 - Build advanced RAG pipelines with hybrid retrieval and custom re-rankers
@@ -25,7 +25,7 @@ I'm an AI Engineer specializing in building enterprise-scale generative AI syste
 - [**VaniVerse**](https://github.com/NishanthPrasath/VaniVerse-Conversational-AI-for-Meeting-Insights): Conversational AI for meeting insights using Whisper, GPT-3.5 API, Airflow, and CI/CD with GitHub Actions
 - [**Geospatial Data Explorer**](https://github.com/NishanthPrasath/Geospatial-Data-Explorer): AWS-based data retrieval tool for 100+ TB NOAA datasets with FastAPI, Docker and Streamlit
 
-### 📈 **Current Focus**
+### 🔍 **Current Focus**
 
 - Advancing hierarchical multi-agent systems for process automation
 - Optimizing RAG pipelines for improved retrieval accuracy
