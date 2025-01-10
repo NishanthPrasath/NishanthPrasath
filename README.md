@@ -1,40 +1,35 @@
 ### 👋 **Hello there!**
 
-I'm a Data Engineer with 3.5+ years of experience in designing, developing, and maintaining scalable data pipelines and architectures. I'm passionate about leveraging data to drive business growth, improve decision-making, and create impactful solutions.
-
-🎓 M.S. in Information Systems (Computer Software Engineering) from Northeastern University (2024)
+I'm an AI Engineer specializing in building enterprise-scale generative AI systems and data architectures. I'm passionate about advancing intelligent process automation through multi-agent systems and RAG architectures, while leveraging my strong foundation in data engineering.
 
 ### 🚀 **What I Do**
-- Design and develop scalable, efficient ETL processes
-- Build and maintain data warehouses and lakes
-- Implement big data solutions using cloud technologies
-- Optimize data models and query performance
-- Implement data governance and quality control measures
+
+- Design and implement enterprise-scale multi-agent AI systems
+- Build advanced RAG pipelines with hybrid retrieval and custom re-rankers
+- Develop LLM-powered automation solutions for complex business workflows
+- Architect scalable data pipelines and streaming architectures
+- Optimize LLM performance and deployment
 
 ### 🛠️ **Tech Stack**
 
-- **Languages**: Python, SQL, R, Java, Bash
-- **Data Warehousing & ETL**: Snowflake, Redshift, AWS Glue, Azure Data Factory, Talend, Mage AI, Airflow, DBT
-- **Cloud & Big Data**: AWS (S3, EC2, Lambda, EMR, IAM), Azure Blob, Hadoop, Hive, Kafka, PySpark, Pinecone, Databricks
-- **Data Analytics & Visualization**: Pandas, NumPy, Scikit-learn, NLTK, PyTorch, QuickSight, Alteryx, Tableau, Power BI
-- **DevOps & Other Tools**: Docker, Kubernetes, Jenkins, Git, Jira, ER/Studio, GraphQL, LangChain, Terraform
+- **AI & LLMs**: LangChain, LangGraph, LlamaIndex, Hugging Face, PyTorch, CLIP, Fine-tuning
+- **Vector Stores & Search**: Qdrant, FAISS, Pinecone, Elasticsearch
+- **Data Engineering**: Snowflake, Airflow, DBT, AWS Glue, Mage AI, PySpark, Kafka
+- **Cloud & Infrastructure**: AWS (S3, EC2, Lambda, ECS), Docker, Kubernetes, Terraform
+- **Programming & APIs**: Python, SQL, FastAPI, GraphQL, Poetry
 
 ### 🚀 **Key Projects**
 
-- [**SafeFeed**](https://github.com/NishanthPrasath/SafeFeed-Context-Aware-Content-Moderation): Real-time content moderation pipeline using Mage, Snowflake, DBT, diffusion models and OpenAI Assistants
+- [**SafeFeed**](https://github.com/NishanthPrasath/SafeFeed-Context-Aware-Content-Moderation): Real-time multi-modal content moderation pipeline using Mage, Snowflake, DBT, diffusion models and OpenAI Assistants
 - [**TravelBud**](https://github.com/NishanthPrasath/TravelBud-Personalized-Travel-Itinerary-Planner): AI-powered travel planner with RapidAPI integration, Airflow and GPT-3.5 for personalized itineraries
 - [**VaniVerse**](https://github.com/NishanthPrasath/VaniVerse-Conversational-AI-for-Meeting-Insights): Conversational AI for meeting insights using Whisper, GPT-3.5 API, Airflow, and CI/CD with GitHub Actions
 - [**Geospatial Data Explorer**](https://github.com/NishanthPrasath/Geospatial-Data-Explorer): AWS-based data retrieval tool for 100+ TB NOAA datasets with FastAPI, Docker and Streamlit
 
-### 📈 **What I'm Up To**
+### 📈 **Current Focus**
 
-- Exploring advanced MLOps practices and LLM applications in data pipelines
-- Diving deeper into real-time data processing with Apache Flink and Kafka Streams
-- Keeping pace with the latest trends in the Data & AI space
+- Advancing hierarchical multi-agent systems for process automation
+- Optimizing RAG pipelines for improved retrieval accuracy
+- Exploring emerging techniques in LLM fine-tuning and deployment
+- Building scalable AI systems for enterprise applications
 
-### 🌐 **Let's Connect!**  
-
-I'm always open to collaborating on innovative data projects or discussing the latest in data engineering. Reach out and let's explore how we can harness data to drive meaningful change!  
-* [LinkedIn](https://www.linkedin.com/in/p-nishanth)  
-* [Email](mailto:nishanth.prasath@outlook.com)
-<!--Always open to collaborating on innovative data projects or discussing the latest in data engineering. Let's harness the power of data to drive meaningful change!-->
+<!--- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email) --->
