@@ -1,8 +1,8 @@
-### 👋 **Hello there!**
+## 👋 **Hello there!**
 
 I'm an AI Engineer specializing in building enterprise-scale generative AI systems and data architectures. I'm passionate about advancing intelligent process automation through multi-agent systems and RAG architectures, while leveraging my strong foundation in data engineering.
 
-### 🎯 **What I Do**
+## 🎯 **What I Do**
 
 - Design and implement enterprise-scale multi-agent AI systems
 - Build advanced RAG pipelines with hybrid retrieval and custom re-rankers
@@ -10,7 +10,7 @@ I'm an AI Engineer specializing in building enterprise-scale generative AI syste
 - Architect scalable data pipelines and streaming architectures
 - Optimize LLM performance and deployment
 
-### 🛠️ **Tech Stack**
+## 🛠️ **Tech Stack**
 
 - **AI & LLMs**: LangChain, LangGraph, LlamaIndex, Hugging Face, PyTorch, CLIP, Fine-tuning
 - **Vector Stores & Search**: Qdrant, FAISS, Pinecone, Elasticsearch
@@ -18,14 +18,14 @@ I'm an AI Engineer specializing in building enterprise-scale generative AI syste
 - **Cloud & Infrastructure**: AWS (S3, EC2, Lambda, ECS), Docker, Kubernetes, Terraform
 - **Programming & APIs**: Python, SQL, FastAPI, GraphQL, Poetry
 
-### 🚀 **Key Projects**
+## 🚀 **Key Projects**
 
 - [**SafeFeed**](https://github.com/NishanthPrasath/SafeFeed-Context-Aware-Content-Moderation): Real-time multi-modal content moderation pipeline using Mage, Snowflake, DBT, diffusion models and OpenAI Assistants
 - [**TravelBud**](https://github.com/NishanthPrasath/TravelBud-Personalized-Travel-Itinerary-Planner): AI-powered travel planner with RapidAPI integration, Airflow and GPT-3.5 for personalized itineraries
 - [**VaniVerse**](https://github.com/NishanthPrasath/VaniVerse-Conversational-AI-for-Meeting-Insights): Conversational AI for meeting insights using Whisper, GPT-3.5 API, Airflow, and CI/CD with GitHub Actions
 - [**Geospatial Data Explorer**](https://github.com/NishanthPrasath/Geospatial-Data-Explorer): AWS-based data retrieval tool for 100+ TB NOAA datasets with FastAPI, Docker and Streamlit
 
-### 🔍 **Current Focus**
+## 🔍 **Current Focus**
 
 - Advancing hierarchical multi-agent systems for process automation
 - Optimizing RAG pipelines for improved retrieval accuracy
